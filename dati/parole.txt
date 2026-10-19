@@ -1,0 +1,10 @@
+aa
+bb
+cc
+dd
+ee
+pesca
+mela
+ananas
+ciliegia
+pera
