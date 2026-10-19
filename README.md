@@ -1,3 +1,3 @@
 ﻿# APPUNTI TPS - QUARTA
 
-In questo repository verranno raccolti gli esercizi svolti durante l'anno scolastico 2026/2027 in Python
+in questo repository verranno messi gli esercizi svolti durante l'anno scolastico 26/27 di tps
